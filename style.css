@@ -1,0 +1,186 @@
+body{
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 61px;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.header-logo{
+    padding: 0px 200px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    margin: 0px 0px 0px 30px;
+    font-size: 15px;
+}
+a:hover{
+    opacity: 0.7;
+}
+
+.flypage{
+    padding: 0px 100px;
+}
+
+.instagram{
+    width: 3%;
+}
+
+.mainvisual{
+    width: 100%;
+}
+
+.about{
+}
+
+.about-title{
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+
+.about-text{
+    padding: 0px 300px;
+    line-height: 5px;
+}
+
+.bagu{
+    padding: 0px 300px;
+}
+
+.Works{
+    display: block;
+    padding: 0px 200px;
+}
+
+.works-title{
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+
+.works1{
+    width: 30%;
+    margin: 0px 0px 30px 30px;
+}
+.works2{
+    width: 30%;
+    margin: 0px 0px 30px 30px;
+}
+.works3{
+    width: 30%;
+    margin: 0px 0px 30px 30px;
+}
+.works4{
+    width: 30%;
+    margin: 0px 0px 30px 30px;
+}
+.works5{
+    width: 30%;
+    margin: 0px 0px 30px 30px;
+}
+.works6{
+    width: 30%;
+    margin: 0px 0px 30px 30px;
+}
+
+.News{
+    padding: 0px 300px;
+}
+
+.news-title{
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+
+.news-text{
+    text-align: left;
+}
+
+.news-text hr{
+    width: 100%;
+}
+
+.days{
+    text-align: left;
+}
+
+.Contact{
+    padding: 0px 300px;
+}
+
+.contact-title{
+    text-align: center;
+    margin: 100px 0px 50px 0px;
+}
+
+.name{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px 10px 0px;
+}
+.e-mail{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px 10px 0px;
+}
+.message{
+    display: flex;
+    justify-content: space-between;
+}
+
+.textbox{
+    width: 80%; /*親要素いっぱい広げる*/
+    padding: 10px 15px; /*ボックスを大きくする*/
+    font-size: 16px;
+    border-radius: 1px; /*ボックス角の丸み*/
+    border: 1px solid #ddd; /*枠線*/
+    box-sizing: border-box; 
+    outline: none;
+}
+
+.message-textbox{
+    width: 80%; /*親要素いっぱい広げる*/
+    padding: 70px 15px; /*ボックスを大きくする*/
+    font-size: 16px;
+    border-radius: 1px; /*ボックス角の丸み*/
+    border: 1px solid #ddd; /*枠線*/
+    box-sizing: border-box; 
+    outline: none;
+}
+
+.contact-button{
+    padding: 0px 300px;
+}
+
+.send{
+    margin: 40px 0px 0px 0px;
+    background: #24292E;
+    color: white;
+    padding: 15px 80px;
+    font-size: 16px;
+    border-radius: 1px;
+    border: 1px solid #24292E;
+    outline: none;
+}
+.send:hover{
+    background: white;
+    color: black;
+    font-size: 16px;
+    padding: 15px 80px;
+    border-radius: 1px;
+    outline: none;
+}
+
+footer{
+    margin: 100px 0px 0px 0px;
+    background:#24292E;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding: 10px 20px;
+}
